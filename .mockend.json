@@ -3,6 +3,6 @@
     "title": { "string": {} }
   },
   "Items": {
-    "test": { number: {} }
+    "test": { "number": {} }
   }
 }
