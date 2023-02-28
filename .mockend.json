@@ -2,4 +2,7 @@
   "User": {
     "title": { "string": {} }
   }
+  "Items": {
+    "test": { "number": {} }
+  }
 }
