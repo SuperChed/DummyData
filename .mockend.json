@@ -2,6 +2,6 @@
   "User": {
     "title": { "string": {} },
     "test": { "string": {} },
-    "foo": {"yo": 12}
+    "foo": {"number": 12}
   }
 }
